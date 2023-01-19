@@ -1,13 +1,15 @@
 .finventory{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+    font-family:'Gill Sans MT';
+    font-size: 40px ;
 }
 
-.fish_image {
+.fish__image{
     border: 2ch double black;
     max-width: 30%;
     height: auto;
 }
+
+
 
 aside{
    font-family: 'Gill Sans';
