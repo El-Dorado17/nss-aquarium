@@ -1,17 +1,38 @@
- /*COFFEE SHOP ASSIGNMENT*/
-.list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+.finventory{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
 }
 
-.shop {
-    flex-basis: 16%;
-    border: 2px;
-    padding: 1em;
-    margin: 0.5em;
-    text-align: center;
-    border: 4px double goldenrod;
-    padding: 1em;
-    margin: 0.5em;
+.fish_image {
+    border: 2ch double black;
+    max-width: 30%;
+    height: auto;
+}
+
+aside{
+   font-family: 'Gill Sans';
+   font-size: 40px;
+   color: antiquewhite;
+   float: right;
+}
+
+
+
+
+body{
+    background-color: coral;
+}
+
+
+
+
+.travel_image{
+    border: 2ch outset mediumspringgreen;
+    max-width: 30%;
+    height: auto;
+}
+
+.fish_trips{
+    font-family: monospace;
+    font-size: 25px;
 }
